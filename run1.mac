@@ -1,0 +1,15 @@
+
+# Initialize kernel
+/process/em/fluo 1
+/process/em/auger 1
+/process/em/augerCascade 1
+/process/em/pixe 1
+
+/run/initialize
+#
+/control/verbose 2
+/run/verbose 2
+
+
+#
+/run/beamOn 100000000
